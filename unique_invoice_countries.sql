@@ -1,1 +1,1 @@
-select DISTINCT BillingCountry [asc] from invoice 
+select DISTINCT BillingCountry from invoice 
